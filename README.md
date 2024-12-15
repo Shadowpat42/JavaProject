@@ -1,9 +1,9 @@
 # Java project <img src="https://media.tenor.com/dMwtTTN4XusAAAAj/yeah-cute.gif" width="100" height="100" />
+### Джобиров Владимир Джамшедович РИ-230914
 ```zsh
 > print("Hello my friend!")
 ```
 
-### Джобиров Владимир Джамшедович
 ```text
 ├── .gitignore                  # Файл для исключения ненужных файлов из репозитория
 ├── pom.xml                     # Конфигурация Maven для управления зависимостями и сборки проекта
